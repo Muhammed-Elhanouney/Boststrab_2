@@ -1,0 +1,18 @@
+.navbar {
+    border-bottom: 5px #5AA6B4 solid;
+}
+
+header {
+    min-height: 100vh;
+    background-image: linear-gradient( rgba(90, 166, 180, .7), rgba(90, 166, 180, .7)), url(../images/mountains.jpg);
+    background-position: inherit;
+}
+
+hr {
+    width: 50%;
+    margin: 25px auto;
+}
+
+.card-body img {
+    margin-top: -80px;
+}
